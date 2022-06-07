@@ -29,7 +29,7 @@ body {
   padding: 0;
 }
 
-.header-right {
+.header-left {
   display: flex;
   align-items: center;
 }
